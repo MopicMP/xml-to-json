@@ -1,0 +1,5 @@
+[
+  "tests/test_xml_to_json.py::TestJson::test_basic",
+  "tests/test_xml_to_json.py::TestJson::test_empty",
+  "tests/test_xml_to_json.py::TestJson::test_type_error"
+]
